@@ -6,5 +6,6 @@ marca quanto tempo o jogar ficou online no server, usando o comando /time para v
 ![stack Overflow](https://i.imgur.com/Y6aQOsp.png)
 # xpk_elevador
 elevador >.<
+#
 ![stack Overflow](https://i.imgur.com/YD1P6Ng.png)
 
