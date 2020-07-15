@@ -9,3 +9,10 @@ elevador >.<
 #
 ![stack Overflow](https://i.imgur.com/YD1P6Ng.png)
 
+#
+#CONVERSÃO E EDITES
+#BADTRIP
+#XIPANCA
+#EPIFANO
+#
+
